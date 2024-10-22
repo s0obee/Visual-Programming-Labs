@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Lab001\bin\Debug\Lab001.exe.config
+C:\Users\ASUS\source\repos\Lab001\bin\Debug\Lab001.exe
+C:\Users\ASUS\source\repos\Lab001\bin\Debug\Lab001.pdb
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.Form1.resources
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.exe
+C:\Users\ASUS\source\repos\Lab001\obj\Debug\Lab001.pdb
